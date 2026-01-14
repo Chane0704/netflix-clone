@@ -157,118 +157,30 @@ window.NETFLIX_INITIAL_CONTENT = [
                 "video_url": "https://drive.google.com/file/d/1iIwAjX6UEKxzldKtrZW2wA1zE6s-13cY/preview", "caption_url": ""
             },
             // SEASON 2
-            {
-                "season": 2,
-                "title": "Season 2 Episode 1",
-                "overview": "Ross's new girlfriend Julie arrives. Rachel waits for Ross at the airport.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1ckdMduXojbMZ1Huai5tIjiAGb74iHhhk/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 2",
-                "overview": "Carol breastfeeds Ben. Monica goes shopping with Julie.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1s_uSpxIJui9lmCAHT1BlnSquxqryIkpy/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 3",
-                "overview": "Mr. Heckles dies and leaves his belongings to Monica and Rachel.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/11nJnaUvgecwKoBxaOfKh3Mka_v9To87f/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 4",
-                "overview": "Phoebe marries a gay Canadian ice dancer to help him get a green card.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1B86gmfNvfDLTS4bsQ-jvvXK37wC3IqTC/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 5",
-                "overview": "Chandler and Joey lose Ben on a bus. Ross has an allergic reaction to kiwi.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1-vX81fxHS1yCr_1Gc-ps_ts46Z_T-0WO/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 6",
-                "overview": "Joey and Chandler are mistaken for a gay couple by the baby services lady.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/19Upka4OjXW-o-IJJ5uRsM5dC7qLEu6AT/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 7",
-                "overview": "Chandler hires a maid. Phoebe dates a guy who wants to sleep with her.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1eYkLaaEQgkrB7s8gF17LV_hWLSPgNiEd/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 8",
-                "overview": "Ross creates a list of pros and cons about Julie and Rachel.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1Stl7fzsBs4Qe7U3kxi75t3iZOt1hl4-7/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 9",
-                "overview": "Phoebe tries to find her real father. Monica throws a Christmas party.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1D81vNTUyWKcKPbdITPwgmWj_bTniCEA_/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 10",
-                "overview": "Russ, a guy who looks like Ross, starts dating Rachel.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/18Zs0yDCAlqdEpf11Hm4Kjh6jEQ9JGGb8/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 11",
-                "overview": "Carol and Susan get married. Phoebe is possessed by a spirit.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1Gh6BVZOkIxHOIVEBmwx4-1uu2RyTWOPJ/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 12",
-                "overview": "The gang goes to visit Marcel on a movie set.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1Gh6BVZOkIxHOIVEBmwx4-1uu2RyTWOPJ/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 13",
-                "overview": "Monica and Rachel fight over Jean-Claude Van Damme.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1smgoFtTW7VELCozgUjjRh2hAX9VVy35G/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 14",
-                "overview": "Chandler gets a new roommate, Eddie. Joey moves out.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1P0vHBzKh6xZAJk9UCtGdBL17ZIWlfbff/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 15",
-                "overview": "Ross and Rachel finally... you know.",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/1wGlMdxmTo6GHlb29dexWMoi_lABI0NNA/preview", "caption_url": ""
-            },
-            {
-                "season": 2,
-                "title": "Season 2 Episode 19",
-                "overview": "The One Where Eddie Won't Go",
-                "runtime": "22",
-                "video_url": "https://drive.google.com/file/d/13Y-AVVnaDdI_gQtIqO73f8bQTPWERHfJ/preview", "caption_url": ""
-            }
+            { "season": 2, "title": "Season 2 Episode 1", "overview": "The One with Ross's New Girlfriend", "runtime": "22", "video_url": "https://drive.google.com/file/d/1ckdMduXojbMZ1Huai5tIjiAGb74iHhhk/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 2", "overview": "The One with the Breast Milk", "runtime": "22", "video_url": "https://drive.google.com/file/d/1s_uSpxIJui9lmCAHT1BlnSquxqryIkpy/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 3", "overview": "The One Where Heckles Dies", "runtime": "22", "video_url": "https://drive.google.com/file/d/11nJnaUvgecwKoBxaOfKh3Mka_v9To87f/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 4", "overview": "The One with Phoebe's Husband", "runtime": "22", "video_url": "https://drive.google.com/file/d/1B86gmfNvfDLTS4bsQ-jvvXK37wC3IqTC/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 5", "overview": "The One with Five Steaks and an Eggplant", "runtime": "22", "video_url": "https://drive.google.com/file/d/1-vX81fxHS1yCr_1Gc-ps_ts46Z_T-0WO/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 6", "overview": "The One with the Baby on the Bus", "runtime": "22", "video_url": "https://drive.google.com/file/d/19Upka4OjXW-o-IJJ5uRsM5dC7qLEu6AT/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 7", "overview": "The One Where Ross Finds Out", "runtime": "22", "video_url": "https://drive.google.com/file/d/1eYkLaaEQgkrB7s8gF17LV_hWLSPgNiEd/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 8", "overview": "The One with the List", "runtime": "22", "video_url": "https://drive.google.com/file/d/1Stl7fzsBs4Qe7U3kxi75t3iZOt1hl4-7/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 9", "overview": "The One with Phoebe's Dad", "runtime": "22", "video_url": "https://drive.google.com/file/d/1D81vNTUyWKcKPbdITPwgmWj_bTniCEA_/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 10", "overview": "The One with Russ", "runtime": "22", "video_url": "https://drive.google.com/file/d/18Zs0yDCAlqdEpf11Hm4Kjh6jEQ9JGGb8/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 11", "overview": "The One with the Lesbian Wedding", "runtime": "22", "video_url": "https://drive.google.com/file/d/1Gh6BVZOkIxHOIVEBmwx4-1uu2RyTWOPJ/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 12", "overview": "The One After the Superbowl: Part 1", "runtime": "22", "video_url": "https://drive.google.com/file/d/1Gh6BVZOkIxHOIVEBmwx4-1uu2RyTWOPJ/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 13", "overview": "The One After the Superbowl: Part 2", "runtime": "22", "video_url": "https://drive.google.com/file/d/1smgoFtTW7VELCozgUjjRh2hAX9VVy35G/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 14", "overview": "The One with the Prom Video", "runtime": "22", "video_url": "https://drive.google.com/file/d/1P0vHBzKh6xZAJk9UCtGdBL17ZIWlfbff/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 15", "overview": "The One Where Ross and Rachel... You Know", "runtime": "22", "video_url": "https://drive.google.com/file/d/1wGlMdxmTo6GHlb29dexWMoi_lABI0NNA/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 16", "overview": "The One Where Joey Moves Out", "runtime": "22", "video_url": "https://drive.google.com/file/d/1y4ccreHtu8m_AU8s_J-LSmytEsrMzqKp/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 17", "overview": "The One Where Eddie Moves In", "runtime": "22", "video_url": "https://drive.google.com/file/d/1au1kZGpHO6515DRR0bgPtUxvO90hNAA9/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 18", "overview": "The One Where Dr. Ramoray Dies", "runtime": "22", "video_url": "https://drive.google.com/file/d/1m0EMCNCbfwWTmMjb-q8M6J7iD01nENk2/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 19", "overview": "The One Where Eddie Won't Go", "runtime": "22", "video_url": "https://drive.google.com/file/d/13Y-AVVnaDdI_gQtIqO73f8bQTPWERHfJ/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 20", "overview": "The One Where Old Yeller Dies", "runtime": "22", "video_url": "https://drive.google.com/file/d/1a_i6C9brKgSl0xsd8_11-sH-V0kiuNZ_/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 21", "overview": "The One with the Bullies", "runtime": "22", "video_url": "https://drive.google.com/file/d/17jamdloHkJM9cgEY_9RRP3kEq4eVkaOD/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 22", "overview": "The One with the Two Parties", "runtime": "22", "video_url": "https://drive.google.com/file/d/1OjVwA922boMm6CFYyrrloTwMf_nZPQNk/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 23", "overview": "The One with the Chicken Pox", "runtime": "22", "video_url": "https://drive.google.com/file/d/1mCtDK4ZBKaHktad22CMDf2gGBP61KWCB/preview", "caption_url": "" },
+            { "season": 2, "title": "Season 2 Episode 24", "overview": "The One with Barry and Mindy's Wedding", "runtime": "22", "video_url": "https://drive.google.com/file/d/1FN7NT5cLd8ueRzJuyHFNG5eKEUuvJGkg/preview", "caption_url": "" }
         ]
     }
 ];
