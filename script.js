@@ -573,6 +573,8 @@ const app = {
                     if (iframeUrl.includes('/view')) {
                         iframeUrl = iframeUrl.replace('/view', '/preview');
                     }
+                    // Attempt to force 1080p
+                    iframeUrl += '?vq=hd1080';
                 }
 
                 modal.innerHTML = `
