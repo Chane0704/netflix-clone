@@ -75,13 +75,8 @@ const app = {
             return !!localStorage.getItem('netflix_user_session');
         },
         login: () => {
-            const email = document.querySelector('.email-input').value;
-            if (!email && !document.querySelector('.email-input').value) {
-                // If called from button with no input, just let them in for demo
-                // But better to simulate 'saving' something
-            }
+            // Simplified login for portfolio mode
             localStorage.setItem('netflix_user_session', 'true');
-            // Reload to init app
             location.reload();
         },
         logout: () => {
