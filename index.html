@@ -31,24 +31,22 @@
                 <header class="landing-header">
                     <div class="landing-logo">TENFLIX</div>
                     <div style="display: flex; gap: 20px;">
-                        <button class="landing-signin-btn" onclick="app.auth.login()">Sign In</button>
+                        <!-- No login required -->
                     </div>
                 </header>
 
                 <div class="landing-content">
                     <div class="landing-card">
                         <h1 class="landing-title">Unlimited movies, shows, and more</h1>
-                        <h3 class="landing-subtitle">Starts at ₹149. Cancel at any time.</h3>
-                        <p class="landing-text">Ready to watch? Enter your email to create or restart your membership.
-                        </p>
-                        <form class="email-form" onsubmit="event.preventDefault(); app.auth.login();">
-                            <div class="email-input-container">
-                                <input type="email" class="email-input" placeholder="Email address" required>
-                            </div>
-                            <button type="submit" class="cta-btn">
-                                Get Started <i data-lucide="chevron-right"></i>
+                        <h3 class="landing-subtitle">Watch anywhere. Free forever.</h3>
+                        <p class="landing-text">Ready to watch? Click below to enter.</p>
+
+                        <div style="margin-top: 20px;">
+                            <button onclick="app.auth.login()" class="cta-btn"
+                                style="width: auto; padding: 15px 40px; font-size: 1.5rem;">
+                                Enter Gallery <i data-lucide="chevron-right"></i>
                             </button>
-                        </form>
+                        </div>
                     </div>
                 </div>
 
